@@ -1,6 +1,0 @@
-the 1 team
-ganesh,nihal,likhitha,chaithanya,venkatesh,anurag
-the 2 team
-vinay,akhil,anvesh,saikumar,sravan,sandeep
-the 3 team
-soujanya,ashish
